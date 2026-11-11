@@ -39,6 +39,17 @@ To understand how virtual machines work in AWS and gain practical experience dep
 - Practised allocating and associating an Elastic IP with an EC2 instance.
 - Learned how a static public IP can provide a consistent endpoint for accessing a server.
 
+- ### 5. Elastic IP Allocation and Association
+- Allocated an Elastic IP address using the AWS Management Console.
+- Associated the allocated Elastic IP with an EC2 instance.
+- Explored the difference between dynamically assigned public IPv4 addresses and static Elastic IP addresses.
+- Understood how Elastic IP helps maintain a consistent public endpoint when an EC2 instance is stopped and started.
+
+### 6. Public and Private IP Address Management
+- Explored the difference between public and private IP addresses.
+- Understood how public IP addresses enable external access to EC2 instances.
+- Learned how Elastic IP provides a persistent public IPv4 address for cloud-hosted servers.
+
 ## Key Learnings
 - Understanding EC2 instance provisioning and cloud-based server management.
 - Deploying web servers on Linux and Windows environments.
